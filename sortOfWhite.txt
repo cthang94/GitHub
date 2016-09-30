@@ -1,0 +1,10 @@
+White
+#FFFFFF
+Whitesmoke
+#F5F5F5
+Snow
+#FFFAFA
+Ghostwhite
+#F8F8FF
+Floralwhite
+#FFFAF0
